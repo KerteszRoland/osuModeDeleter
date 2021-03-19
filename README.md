@@ -6,7 +6,7 @@ DISCLAIMER: BACK UP YOUR osu!/Songs FOLDER
 I don't take any responsibility, if the script deletes something that isn't intended.
 
 
-The script deletes all beatmaps in osu! except specified gamemode
+<p>The script deletes all beatmaps in osu! except specified gamemodes.<\p>
 Script uses Python3 and it's built in libraries.
 I only tried on Windows 10.
 
