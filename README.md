@@ -1,8 +1,7 @@
 # osuModeDeleter
 
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-!!!!!!!DISCLAIMER: BACK UP YOUR osu!/Songs FOLDER!!!!!!!
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!!!!!!!!!!!!!
+DISCLAIMER: BACK UP YOUR osu!/Songs FOLDER
 
 If you delete beatmaps with the script that you didn't want to delete that is YOUR FAULT.
 
