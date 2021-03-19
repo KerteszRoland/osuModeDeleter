@@ -3,7 +3,7 @@
 !!!!!!!!!!!!!!
 DISCLAIMER: BACK UP YOUR osu!/Songs FOLDER
 
-If you delete beatmaps with the script that you didn't want to delete that is YOUR FAULT.
+I don't take any responsibility, if the script deletes something that isn't intended.
 
 
 The script deletes all beatmaps in osu! except specified gamemode
