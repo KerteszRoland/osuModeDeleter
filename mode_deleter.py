@@ -9,8 +9,14 @@ def GetArgs():
 
 args = GetArgs()
 PATH = os.getcwd()
+
 if len(args) > 2:
     PATH = args[2]
+if len(args) < 2:
+    print("You have to specify which gamemodes you want to KEEP!")
+    print("Example: mode_deleter.py 0;1")
+    exit()
+    
 MODES = args[1].split(";")
 
 def RemoveSong(file_path, song_file):
