@@ -21,5 +21,5 @@ path(OPTIONAL): Your osu!/Songs path with forward facing slashes.\
 EXAMPLE:\
 You put the script in the Songs folder:\
   python mode_deleter.py 0;1\
-You assing the path as an argument:\
+You passing the path as an argument:\
   python mode_deleter.py 0;1 C:/Users/user/AppData/Local/osu!/Songs
